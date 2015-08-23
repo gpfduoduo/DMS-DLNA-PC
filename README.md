@@ -8,14 +8,25 @@
   （如天猫魔盒、小米盒子等）几乎都支持DLNA。
   
 ## 代码中需要注意的地方
-  本工程并没有实现UI，因此在本工程中你的多媒体资源（音频、视频和图片）的路径是在代码中写死的，如：
+  本工程并没有实现UI，因此在本工程中你的多媒体资源（音频、视频和图片）的路径是在代码中写死的，
+  因此这就需要你的PC或者linux中必须具有以下的路径，具体的如：
   ```JAVA
   private String localMusicPath = "E:\\Entertainment\\audio"; //你的音频路径，将你的音频文件放在这个地方就好
-	private String localVideoPath = "E:\\Entertainment\\video";
-	private String localPhotoPath = "E:\\Entertainment\\photo";
+  private String localVideoPath = "E:\\Entertainment\\video";
+  private String localPhotoPath = "E:\\Entertainment\\photo";
   ```
-  
+  如果你想将程序运行在linux中，也是需要修改次路径
+  ```JAVA
+  private String localMusicPath = "/data/dlna/Music";
+  private String localVideoPath = "/data/dlna/Video";
+  private String localPhotoPath = "/data/dlna/Photo"
+  ```
 ## 工程启动方法
   在Eclipse中，右击StartDMS 选择run as java application，即可。
   
-## 
+## 效果图
+  ### pc下音频内容：
+  
+  在我的手机中安装了DMC客户端，浏览DMS中的内容如下：
+  
+  
