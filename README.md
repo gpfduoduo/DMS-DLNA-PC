@@ -1,7 +1,9 @@
 # DMS-DLNA-PC
 基于Cling在PC下实现DLNA Server
-最基本的DLNA的相关知识在此不进行介绍了，具体的看链接：
-[![DLNA官方网址]](http://www.dlna.org/)    
+最基本的DLNA的相关知识在此不进行介绍了，具体的看链接：     
+
+[![DLNA官方网址]](http://www.dlna.org/)      
+
 [![百度百科]](http://baike.baidu.com/link?url=vs-a_pwD6ZxcboWaOFAPHoVujPc7PA-zUhbk3NIM64RVXe6uO27pY-pBpbxsAcU6gLkMXaEvUEtONuzUXKFzOK)
 
 ## 项目说明
