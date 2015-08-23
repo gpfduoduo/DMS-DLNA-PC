@@ -1,0 +1,6 @@
+12-06 15:02:56.734: I/System.out(16826): ------GPF------scan item=家庭网络管家-MI 2A;bssid=ac:f7:f3:89:74:c6
+12-06 15:03:02.134: I/System.out(16826): GPF: inetAddress:192.168.43.66
+12-06 15:03:02.134: I/System.out(16826): ---GPF---resource info:;name=My Band;url=http://192.168.43.668192/-1537664629My+Band.mp3
+12-06 15:03:02.134: I/System.out(16826): ---GPF---resource info:;name=Price Tag;url=http://192.168.43.668192/439212030Price+Tag.mp3
+12-06 15:03:02.134: I/System.out(16826): ---GPF---resource info:;name=My Band;url=http://192.168.43.668192/-103757981My+Band.mp3
+12-06 15:03:02.134: I/System.out(16826): ---GPF---resource info:;name=Price Tag;url=http://192.168.43.668192/-1624354238Price+Tag.mp3

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="libs/cling-core-1.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/cling-support-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/teleal-common-1.0.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jnotify-0.94.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
