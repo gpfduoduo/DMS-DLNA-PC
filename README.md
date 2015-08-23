@@ -1,11 +1,12 @@
 # DMS-DLNA-PC
 基于Cling在PC下实现DLNA Server
 最基本的DLNA的相关知识在此不进行介绍了，具体的看链接：
-[![DLNA官方网址]](http://www.dlna.org/)
+[![DLNA官方网址]](http://www.dlna.org/) ＜/br＞
 [![百度百科]](http://baike.baidu.com/link?url=vs-a_pwD6ZxcboWaOFAPHoVujPc7PA-zUhbk3NIM64RVXe6uO27pY-pBpbxsAcU6gLkMXaEvUEtONuzUXKFzOK)
 
 ## 项目说明
   1、此项目是在PC下（linux也是可以的，需要修改一下代码中的路径）基于Cling实现的DLNA DMS，cling的官方地址在最后的感谢中。
+  
   2、运行程序后，  DLNA中的DMC（例如：你的手机中安装了DLNA的客户端）与你的PC在同一个局域网下，就可以通过DMC来浏览PC中的
 内容，当然也可以通过DMC将这些内容到你的大屏幕上，如电视的盒子，目前世面上所有的OTT盒子（如天猫魔盒、小米盒子、zte的盒子、华为的盒子等）几乎都支持DLNA。
   3、项目中实现了文件夹的嵌套，即：你DMC中浏览到的第一级的目录为：Audios、Videos和Images，后续的目录浏览是根据你放置的媒体文件的目录和文件夹是一一对应的，
