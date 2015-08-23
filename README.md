@@ -27,8 +27,8 @@
   在Eclipse中，右击StartDMS 选择run as java application，即可。
   
 ## 效果图
-  ### pc下音频内容：
-  
-  在我的手机中安装了DMC客户端，浏览DMS中的内容如下：
-  
+  pc下音频内容：
+  ![DMS目录](https://github.com/gpfduoduo/DMS-DLNA-PC/blob/master/picture/PC_Music.png "pc中DMS的音乐目录")
+   在我的手机中安装了DMC客户端，浏览DMS中的内容如下：
+  ![DMC运行结果](https://github.com/gpfduoduo/DMS-DLNA-PC/blob/master/picture/demo.gif "DMC的运行结果")
   
